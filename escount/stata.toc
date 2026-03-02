@@ -2,4 +2,4 @@
 1
 2
 3
-p sreweight Reweights survey variables using external totals Use sreweight With STATA 19
+p escount Maximum likelihood estimation of endogenous switching count-data regression model Use escount With STATA 19
