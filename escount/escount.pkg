@@ -1,4 +1,11 @@
-D 'sreweight': Reweights survey variables using external totals Use sreweight With STATA 19
+D 'escount': Maximum likelihood estimation of endogenous switching count-data regression model Use escount With STATA 19
 D
-F sreweight.ado
-F sreweight.sthlp
+F escount.ado
+F escount.sthlp
+F escount_p.ado
+F lescount.mlib
+F lncount.ado
+F lncount.sthlp
+F lncount_p.ado
+F teescount.ado
+F teescount.sthlp
