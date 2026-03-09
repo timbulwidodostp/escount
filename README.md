@@ -1,6 +1,8 @@
 # escount
 Maximum likelihood estimation of endogenous switching count-data regression model Use escount With STATA 19
 
+https://www.youtube.com/watch?v=yRngLzNW0CY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
